@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Test">
+    <classes>
+      <class name="euroStar.Reports.ReportNGReport.EuroStarTest3_VigoReport"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="euroStar.Reports.ReportNGReport.EuroStarTest3_VigoReport">
+        <methods>
+          <include name="initialize"/>
+          <include name="verifyUrl"/>
+          <include name="verifyWebTitleToSkip"/>
+          <include name="verifyWebTitle"/>
+        </methods>
+      </class> <!-- euroStar.Reports.ReportNGReport.EuroStarTest3_VigoReport -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

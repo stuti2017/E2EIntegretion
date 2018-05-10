@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="euroStar.TestScripts.EuroStarTest3_VigoReport"/>
+    </classes>
+  </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="euroStar.TestScripts.EuroStarTest3_VigoReport">
+        <methods>
+          <include name="afterTest"/>
+          <include name="initialize"/>
+          <include name="M1"/>
+          <include name="verifyWebTitle"/>
+          <include name="TeardownTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- euroStar.TestScripts.EuroStarTest3_VigoReport -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

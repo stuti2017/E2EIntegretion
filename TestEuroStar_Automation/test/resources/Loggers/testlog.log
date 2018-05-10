@@ -1,0 +1,8 @@
+2018-03-05 21:36:11,011 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-05 21:36:11,152 - LinkedinTest1 -INFO - Enter the email id
+2018-03-05 21:36:11,302 - LinkedinTest1 -INFO - Enter the password
+2018-03-05 21:36:19,781 - LinkedinTest1 -INFO - Click on submit button
+2018-03-05 21:36:19,781 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-05 21:36:19,782 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-05 21:36:19,793 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-05 21:36:21,983 - EuroStarTest1 -INFO - Close the browser!!

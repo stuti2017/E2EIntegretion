@@ -1,0 +1,412 @@
+2018-03-05 21:39:01,181 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-05 21:39:01,385 - LinkedinTest1 -INFO - Enter the email id
+2018-03-05 21:39:01,491 - LinkedinTest1 -INFO - Enter the password
+2018-03-05 21:39:08,756 - LinkedinTest1 -INFO - Click on submit button
+2018-03-05 21:39:08,758 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-05 21:39:08,760 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-05 21:39:08,799 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-05 21:39:10,906 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-05 21:41:52,053 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-05 21:41:52,363 - LinkedinTest1 -INFO - Enter the email id
+2018-03-05 21:41:52,494 - LinkedinTest1 -INFO - Enter the password
+2018-03-05 21:41:58,766 - LinkedinTest1 -INFO - Click on submit button
+2018-03-05 21:41:58,766 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-05 21:41:58,767 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-05 21:41:58,778 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-05 21:41:58,780 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-03-05 21:42:00,889 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-06 12:15:43,889 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-06 12:15:44,188 - LinkedinTest1 -INFO - Enter the email id
+2018-03-06 12:15:44,338 - LinkedinTest1 -INFO - Enter the password
+2018-03-06 12:15:51,915 - LinkedinTest1 -INFO - Click on submit button
+2018-03-06 12:15:51,916 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-06 12:15:51,917 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-06 12:15:51,934 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-06 12:15:52,642 - EuroStarTest1 -ERROR - C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//webTitle_2018_03_06 963.png
+2018-03-06 12:15:54,818 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-06 12:24:05,228 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-06 12:24:05,389 - LinkedinTest1 -INFO - Enter the email id
+2018-03-06 12:24:05,513 - LinkedinTest1 -INFO - Enter the password
+2018-03-06 12:24:13,080 - LinkedinTest1 -INFO - Click on submit button
+2018-03-06 12:24:13,081 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-06 12:24:13,082 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-06 12:24:13,106 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-06 12:24:13,758 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//webTitle_2018_03_06 134.png
+2018-03-06 12:24:15,896 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-08 21:47:48,439 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-08 21:47:48,601 - LinkedinTest1 -INFO - Enter the email id
+2018-03-08 21:47:48,705 - LinkedinTest1 -INFO - Enter the password
+2018-03-08 21:47:55,564 - LinkedinTest1 -INFO - Click on submit button
+2018-03-08 21:47:55,565 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-08 21:47:55,565 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-08 21:47:55,581 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-08 21:47:56,800 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//webTitle_2018_03_08 629.png
+2018-03-08 21:47:58,879 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-08 21:49:02,047 - EuroStarTest1 -ERROR - java.lang.NullPointerException
+2018-03-08 21:49:02,047 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-08 21:49:02,047 - EuroStarTest1 -INFO - Actual Title: 
+2018-03-08 21:59:55,426 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'U6016926-TPL-A', ip: '10.29.191.65', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir12792_19445}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b8ed93431c38df8c5a41cbbf33f844a3
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-03-08 21:59:55,429 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-08 22:01:37,414 - EuroStarTest1 -ERROR - org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.10 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'U6016926-TPL-A', ip: '10.29.191.65', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir13664_2952}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 210eb9a7aa411476643e1ce001aead50
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-03-08 22:01:37,414 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-10 12:31:28,639 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-10 12:31:28,923 - LinkedinTest1 -INFO - Enter the email id
+2018-03-10 12:31:29,033 - LinkedinTest1 -INFO - Enter the password
+2018-03-10 12:31:38,253 - LinkedinTest1 -INFO - Click on submit button
+2018-03-10 12:31:38,255 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-10 12:31:38,255 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-10 12:31:38,264 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-10 12:31:38,911 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//webTitle_2018_03_10 296.png
+2018-03-10 12:31:41,047 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-14 16:15:36,410 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-14 16:15:36,559 - LinkedinTest1 -INFO - Enter the email id
+2018-03-14 16:15:36,687 - LinkedinTest1 -INFO - Enter the password
+2018-03-14 16:15:44,990 - LinkedinTest1 -INFO - Click on submit button
+2018-03-14 16:15:44,990 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-14 16:15:44,991 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-14 16:15:45,003 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-14 16:15:45,698 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//webTitle_2018_03_14 045.png
+2018-03-14 16:15:47,792 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-14 16:16:25,539 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-14 16:16:25,684 - LinkedinTest1 -INFO - Enter the email id
+2018-03-14 16:16:25,795 - LinkedinTest1 -INFO - Enter the password
+2018-03-14 16:16:30,299 - LinkedinTest1 -INFO - Click on submit button
+2018-03-14 16:16:30,299 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-14 16:16:30,299 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-14 16:16:30,309 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle ‹ Log In
+2018-03-14 16:16:30,929 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//webTitle_2018_03_14 335.png
+2018-03-14 16:16:31,007 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-14 16:17:10,623 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-14 16:17:10,802 - LinkedinTest1 -INFO - Enter the email id
+2018-03-14 16:17:10,900 - LinkedinTest1 -INFO - Enter the password
+2018-03-14 16:17:14,132 - LinkedinTest1 -INFO - Click on submit button
+2018-03-14 16:17:14,132 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-14 16:17:14,133 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-14 16:17:14,141 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle ‹ Log In
+2018-03-14 16:17:14,789 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//webTitle_2018_03_14 159.png
+2018-03-14 16:17:14,896 - EuroStarTest1 -INFO - Close the browser!!
+2018-03-15 15:51:24,784 - LinkedinTest1 -INFO - Click on Login link!!
+2018-03-15 15:51:25,037 - LinkedinTest1 -INFO - Enter the email id
+2018-03-15 15:51:25,215 - LinkedinTest1 -INFO - Enter the password
+2018-03-15 15:51:32,010 - LinkedinTest1 -INFO - Click on submit button
+2018-03-15 15:51:32,010 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-03-15 15:51:32,010 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-03-15 15:51:32,021 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-03-15 15:51:33,396 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//webTitle_2018_03_15 054.png
+2018-03-15 15:51:35,502 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 10:06:05,239 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 10:06:05,379 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 10:06:05,500 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 10:06:17,152 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 10:06:17,153 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 10:06:17,153 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 10:06:17,160 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 10:06:17,715 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyUrl_2018_04_30 187.png
+2018-04-30 10:06:27,745 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir11776_20205}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 3a77d4be1dffa1697ea3660fb6fd8f9d
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 10:06:27,746 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 10:06:27,752 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 10:06:28,285 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 754.png
+2018-04-30 10:06:30,405 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 10:09:56,855 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 10:09:57,119 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 10:09:57,246 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 10:10:12,075 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 10:10:12,075 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 10:10:12,075 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 10:10:12,083 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 10:10:12,613 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyUrl_2018_04_30 112.png
+2018-04-30 10:10:22,686 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir2964_3155}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b09876c2b71578608928fe0eb51f30a3
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 10:10:22,688 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 10:40:24,741 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 10:40:25,009 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 10:40:25,124 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 10:40:37,435 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 10:40:37,435 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 10:40:37,441 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 10:40:37,441 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 10:40:37,443 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 10:40:37,969 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 10:40:48,025 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir10608_12734}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d50873a9c1a9955925c3d3bc07390bb8
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 10:40:48,026 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 10:40:48,033 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 10:40:48,574 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 037.png
+2018-04-30 10:40:50,633 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 11:11:25,466 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 11:11:25,665 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 11:11:25,831 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 11:11:39,344 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 11:11:39,348 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 11:11:39,362 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 11:11:39,363 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 11:11:39,365 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 11:11:39,980 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 11:11:50,030 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir9264_3387}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0203316743bbc30a87a32d28422b4539
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 11:11:50,031 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 11:11:50,041 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 11:11:50,624 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 044.png
+2018-04-30 11:11:52,698 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 11:14:10,955 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 11:14:11,145 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 11:14:11,315 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 11:14:30,307 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 11:14:30,308 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 11:14:30,327 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 11:14:30,327 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 11:14:30,329 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 11:14:30,902 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 11:14:40,943 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir11320_12764}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ccd15053f696bd587179a2de289df0a6
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 11:14:40,944 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 11:14:40,950 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 11:14:41,450 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 953.png
+2018-04-30 11:14:43,523 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 17:02:12,283 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 17:02:12,440 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 17:02:12,646 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 17:02:39,396 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 17:02:39,396 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 17:02:39,404 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:02:39,405 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:02:39,407 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 17:02:39,933 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 17:02:49,980 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir14924_18110}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8d3a86d285391fcb210592e464943093
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 17:02:49,981 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 17:02:49,988 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 17:02:50,522 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 992.png
+2018-04-30 17:02:52,590 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 17:04:55,563 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 17:04:55,780 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 17:04:55,896 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 17:05:18,536 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 17:05:18,537 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 17:05:18,547 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:05:18,548 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:05:18,550 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 17:05:19,071 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 17:05:29,090 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir14012_14804}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0710a339e3805438dd52758cc333233e
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 17:05:29,091 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 17:05:29,097 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 17:05:29,589 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 100.png
+2018-04-30 17:05:31,901 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 17:54:42,436 - EuroStarTest1 -ERROR - org.openqa.selenium.WebDriverException: unknown error: Element <a href="javascript:void(0)">...</a> is not clickable at point (1064, 17). Other element would receive the click: <div class="wph-modal-mask wpmudev-modal-mask "></div>
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 37 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir10280_20605}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: eef907baa070dd9f065098cd97420881
+2018-04-30 17:54:42,447 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:54:42,447 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:54:42,449 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 17:54:42,925 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 17:54:42,959 - EuroStarTest1 -ERROR - org.openqa.selenium.WebDriverException: unknown error: Element <a href="javascript:void(0)">...</a> is not clickable at point (1064, 17). Other element would receive the click: <div class="wph-modal-mask wpmudev-modal-mask "></div>
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir10280_20605}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: eef907baa070dd9f065098cd97420881
+2018-04-30 17:54:42,960 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 17:54:42,969 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 17:54:43,411 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 972.png
+2018-04-30 17:54:45,511 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 17:56:03,937 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 17:56:04,077 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 17:56:04,213 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 17:56:26,685 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 17:56:26,686 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 17:56:26,693 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:56:26,693 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:56:26,695 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 17:56:27,200 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 17:56:37,224 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir13628_2848}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ab99964fc27928d6bca3eb45a0834d54
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 17:56:37,225 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 17:56:37,231 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 17:56:37,772 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 235.png
+2018-04-30 17:56:40,091 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 17:58:17,584 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 17:58:17,883 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 17:58:17,985 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 17:58:44,485 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 17:58:44,485 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 17:58:44,491 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:58:44,492 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 17:58:44,493 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 17:58:45,006 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 17:58:55,033 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir3212_4843}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: cfafafffbfbc2db5b0af400b2f6c6e0c
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 17:58:55,034 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 17:58:55,043 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 17:58:55,575 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 046.png
+2018-04-30 17:58:57,881 - EuroStarTest1 -INFO - Close the browser!!
+2018-04-30 23:27:35,082 - LinkedinTest1 -INFO - Click on Login link!!
+2018-04-30 23:27:35,246 - LinkedinTest1 -INFO - Enter the email id
+2018-04-30 23:27:35,409 - LinkedinTest1 -INFO - Enter the password
+2018-04-30 23:27:48,612 - LinkedinTest1 -INFO - Click on submit button
+2018-04-30 23:27:48,612 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-04-30 23:27:48,618 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 23:27:48,619 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-04-30 23:27:48,620 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-04-30 23:27:49,163 - EuroStarTest1 -INFO - Result Pass!!
+2018-04-30 23:27:59,230 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.131', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir14976_14099}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2cd59cb876e4306bb8ddf659b6df1ba8
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-04-30 23:27:59,232 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-04-30 23:27:59,238 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-04-30 23:27:59,772 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_04_30 243.png
+2018-04-30 23:28:01,893 - EuroStarTest1 -INFO - Close the browser!!
+2018-05-01 21:52:47,434 - LinkedinTest1 -INFO - Click on Login link!!
+2018-05-01 21:52:47,718 - LinkedinTest1 -INFO - Enter the email id
+2018-05-01 21:52:47,833 - LinkedinTest1 -INFO - Enter the password
+2018-05-01 21:52:59,169 - LinkedinTest1 -INFO - Click on submit button
+2018-05-01 21:52:59,170 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-05-01 21:52:59,179 - EuroStarTest1 -INFO - Current URL: https://huddle.eurostarsoftwaretesting.com/
+2018-05-01 21:52:59,179 - EuroStarTest1 -INFO - Expected URL: https://huddle.eurostarsoftwaretesting.com/
+2018-05-01 21:52:59,183 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-05-01 21:52:59,722 - EuroStarTest1 -INFO - Result Pass!!
+2018-05-01 21:53:09,768 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.131', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir14968_32090}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 968895c899b48c6c66d695242dfb73dd
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-05-01 21:53:09,770 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-05-01 21:53:09,775 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-05-01 21:53:10,253 - EuroStarTest1 -ERROR - Error screshot location: C:\MyLearning\TestEuroStar_Automation//Test-ScreenShots//verifyWebTitle_2018_05_01 779.png
+2018-05-01 21:53:20,327 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='btn_login']/a[contains(text(),'Login')]"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'U6016926-TPL-A', ip: '10.30.208.131', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\u6016926\AppData\Local\Temp\scoped_dir14968_32090}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 968895c899b48c6c66d695242dfb73dd
+*** Element info: {Using=xpath, value=//li[@class='btn_login']/a[contains(text(),'Login')]}
+2018-05-01 21:53:20,328 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-05-01 21:53:20,334 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
