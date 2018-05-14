@@ -1,0 +1,1 @@
+{"uuid":"0bce4bf8-48f8-4726-819e-26b394562fda","name":"Default test","start":1526280067350,"stop":1526280082333,"children":["7aeef9f2-9aa6-4398-bdbc-84c03d073fb8"],"befores":[{"name":"M1","stage":"finished","description":"","start":1526280067350,"stop":1526280067420}],"afters":[{"name":"afterTest","stage":"finished","description":"","start":1526280080221,"stop":1526280082285}]}

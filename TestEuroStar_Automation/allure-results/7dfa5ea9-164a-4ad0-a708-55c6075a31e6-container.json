@@ -1,0 +1,1 @@
+{"uuid":"7dfa5ea9-164a-4ad0-a708-55c6075a31e6","name":"euroStar.MasterFile.Base.getResult","description":"","start":1526280791170,"stop":1526280791668,"children":["35ed5f62-16bf-46a9-bdc8-afe5d949b7ab"],"afters":[{"name":"getResult","stage":"finished","description":"","start":1526280791170,"stop":1526280791668}]}
